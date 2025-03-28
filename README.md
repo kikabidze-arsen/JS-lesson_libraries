@@ -11,7 +11,7 @@
   import {
     formatDateToRU,
     formatDateToUS,
-  } from "https://cdn.jsdelivr.net/gh/kikabidze-arsen/JS-training--libraries-@main/lib/formatDate/formatDate.js)";
+  } from "https://cdn.jsdelivr.net/gh/kikabidze-arsen/JS-lesson_libraries@main/lib/formatDate/formatDate.js)";
 
   // Пример использования
   const date = new Date();
