@@ -1,0 +1,10 @@
+{
+  "name": "JS-lesson_libraries",
+  "version": "1.0.0",
+  "main": "lib/formatDate/formatDate.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {}
+}
